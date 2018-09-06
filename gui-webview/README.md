@@ -65,7 +65,7 @@ This demo bot is immediately runnable on Heroku!
 $ cd /path/to/fb-chatbots
 
 $ heroku create
-
+ 
 # URL_TO_HEROKU_APP is the url given to you from the above command
 $ heroku config:set SERVER_URL='https://{URL_TO_HEROKU_APP}'
 
